@@ -72,7 +72,7 @@ function App() {
 
         {/* FORM */}
         <div className="form-box">
-          <h1>🎓 Quản lý sinh viên</h1>
+          <h1>🎓 Quản lý sinh viên - VERSION 2.0</h1>
 
           <form onSubmit={handleSubmit}>
 
